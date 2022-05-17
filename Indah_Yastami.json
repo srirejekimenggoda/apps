@@ -1,0 +1,374 @@
+{
+
+  "ADS": [
+
+    {
+
+      "select_main_ads": "ADMOB",
+
+      "select_backup_ads": "",
+
+      "main_ads_banner": "ca-app-pub-4898910776136267/6439140401",
+
+      "main_ads_intertitial": "ca-app-pub-4898910776136267/6298743447",
+
+      "backup_ads_banner": "",
+
+      "backup_ads_intertitial": "",
+	  
+	  "native_ads_admob": "ca-app-pub-4898910776136267/1186813725",
+
+      "initialize_sdk": "",
+
+      "initialize_sdk_backup_ads": "",
+
+      "interstitial_counter": "3",
+
+      "high_paying_keyword_1": "",
+
+      "high_paying_keyword_2": "",
+
+      "high_paying_keyword_3": "",
+
+      "high_paying_keyword_4": "",
+
+      "high_paying_keyword_5": "",
+
+      "status_app": "0",
+
+      "link_redirect": "https://"
+
+    }
+
+  ],
+
+  "DATA": [
+
+    {
+
+      "id": 1,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Dhyo Haw",
+
+      "duration": "04:13",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Ada Aku Disini",
+
+      "url": "file:///android_asset/ADAAKUDISINI.mp3"
+
+    },
+	
+	{
+
+      "id": 2,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Naff",
+
+      "duration": "05:04",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Akhirnya Aku Menemukan Mu",
+
+      "url": "file:///android_asset/AKHIRNYAKUMENEMUKANMU.mp3"
+
+    },
+	
+	{
+
+      "id": 3,
+
+      "album": "EP (iTunes)",
+
+      "artist": "D.O.T",
+
+      "duration": "04:02",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Belahan Jiwa",
+
+      "url": "file:///android_asset/BELAHANJIWADOT.mp3"
+
+    },
+	
+	{
+
+      "id": 4,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ST 12",
+
+      "duration": "04:24",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Cinta Tak Harus Memiliki",
+
+      "url": "file:///android_asset/CINTATAKHARUSMEMILIKIST12.mp3"
+
+    },
+	
+	{
+
+      "id": 5,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Tommy J Pisa",
+
+      "duration": "04:35",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Disini Di Batas Kota Ini",
+
+      "url": "file:///android_asset/DiSiniDiBataskotaIni.mp3"
+
+    },
+	
+	{
+
+      "id": 6,
+
+      "album": "EP (iTunes)",
+
+      "artist": "LAST CHILD",
+
+      "duration": "03:50",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Duka",
+
+      "url": "file:///android_asset/Duka_LAST_CHILD.mp3"
+
+    },
+	
+	{
+
+      "id": 7,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Danar Widianto",
+
+      "duration": "03:35",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Dulu",
+
+      "url": "file:///android_asset/DULUDANARWIDIANTO.mp3"
+
+    },
+	
+	{
+
+      "id": 8,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Iklim",
+
+      "duration": "04:35",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Hanya Satu Persinggahan",
+
+      "url": "file:///android_asset/HANYASATUPERSINGGAHANIKLIM.mp3"
+
+    },
+	
+	{
+
+      "id": 9,
+
+      "album": "EP (iTunes)",
+
+      "artist": "WALI BAND",
+
+      "duration": "03:50",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Harga Ditiku",
+
+      "url": "file:///android_asset/HARGADIRIKUWALI.mp3"
+
+    },
+	
+	{
+
+      "id": 10,
+
+      "album": "EP (iTunes)",
+
+      "artist": "GEISHA",
+
+      "duration": "05:11",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Jika Cinta Dia",
+
+      "url": "file:///android_asset/JIKACINTADIAGEISHA.mp3"
+
+    },
+	
+	{
+
+      "id": 11,
+
+      "album": "EP (iTunes)",
+
+      "artist": "UNGU",
+
+      "duration": "05:08",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Jika Itu Yang Terbaik",
+
+      "url": "file:///android_asset/JIKAITUYANGTERBAIKUNGU.mp3"
+
+    },
+	
+	{
+
+      "id": 12,
+
+      "album": "EP (iTunes)",
+
+      "artist": "SHEILA ON 7",
+
+      "duration": "03:41",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Kita",
+
+      "url": "file:///android_asset/KITASHEILAON7.mp3"
+
+    },
+	
+	{
+
+      "id": 13,
+
+      "album": "EP (iTunes)",
+
+      "artist": "AUDY",
+
+      "duration": "02:53",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Lama-Lama Aku Bosan",
+
+      "url": "file:///android_asset/LAMALAMAAKUBOSANAUDY.mp3"
+
+    },
+	
+	{
+
+      "id": 14,
+
+      "album": "EP (iTunes)",
+
+      "artist": "UENDA",
+
+      "duration": "04:53",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Maafkan Aku",
+
+      "url": "file:///android_asset/MAAFKANAKUENDA.mp3"
+
+    },
+	
+	{
+
+      "id": 15,
+
+      "album": "EP (iTunes)",
+
+      "artist": "EXIST",
+
+      "duration": "05:12",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Mencari alasan",
+
+      "url": "file:///android_asset/MENCARIALASANEXIST.mp3"
+
+    },
+	
+	{
+
+      "id": 16,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ARMADA",
+
+      "duration": "05:31",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Penantian Armada",
+
+      "url": "file:///android_asset/PENANTIANARMADA.mp3"
+
+    },
+	
+	{
+
+      "id": 17,
+
+      "album": "EP (iTunes)",
+
+      "artist": "UNGU",
+
+      "duration": "04:22",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Sejauh Mungkin",
+
+      "url": "file:///android_asset/SEJAUHMUNGKINUNGU.mp3"
+
+    },
+	
+	{
+
+      "id": 18,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Motif Band",
+
+      "duration": "03:49",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Tuhan Jagakan Dia",
+
+      "url": "file:///android_asset/TUHANJAGAKANDIAMOTIFBAND.mp3"
+
+    }
+
+
+  ]
+
+}
