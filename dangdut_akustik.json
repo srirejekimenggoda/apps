@@ -1,0 +1,464 @@
+{
+
+  "ADS": [
+
+    {
+
+      "select_main_ads": "ADMOB",
+
+      "select_backup_ads": "ADMOB",
+
+      "main_ads_banner": "ca-app-pub-4898910776136267/2712159137",
+
+      "main_ads_intertitial": "ca-app-pub-4898910776136267/5776757439",
+
+      "backup_ads_banner": "ca-app-pub-4898910776136267/2712159137",
+
+      "backup_ads_intertitial": "ca-app-pub-4898910776136267/5776757439",
+	  
+	  "native_ads_admob": "ca-app-pub-4898910776136267/3150594090",
+
+      "initialize_sdk": "",
+
+      "initialize_sdk_backup_ads": "",
+
+      "interstitial_counter": "1",
+
+      "high_paying_keyword_1": "",
+
+      "high_paying_keyword_2": "",
+
+      "high_paying_keyword_3": "",
+
+      "high_paying_keyword_4": "",
+
+      "high_paying_keyword_5": "",
+
+      "status_app": "0",
+
+      "link_redirect": "https://"
+
+    }
+
+  ],
+
+  "DATA": [
+
+    {
+
+      "id": 1,
+
+      "album": "EP (iTunes)",
+
+      "artist": "MEGGI Z",
+
+      "duration": "05:14",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "BENANG BIRU",
+
+      "url": "file:///android_asset/BENANG BIRU.mp3"
+
+    },
+	
+	{
+
+      "id": 2,
+
+      "album": "EP (iTunes)",
+
+      "artist": "MEGGI Z",
+
+      "duration": "05:38",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "CINTA HITAM",
+
+      "url": "file:///android_asset/CINTA HITAM.mp3"
+
+    },
+	
+	{
+
+      "id": 3,
+
+      "album": "EP (iTunes)",
+
+      "artist": "H. Jaja Miharja",
+
+      "duration": "04:28",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "CINTA SABUN MANDI",
+
+      "url": "file:///android_asset/CINTA SABUN MANDI.mp3"
+
+    },
+	
+	{
+
+      "id": 4,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Rhoma Irama ft. Rita Sugiarto",
+
+      "duration": "06:00",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "CUMA KAMU",
+
+      "url": "file:///android_asset/CUMA KAMU.mp3"
+
+    },
+	
+	{
+
+      "id": 5,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Om PSP",
+
+      "duration": "03:21",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "FATIMEH",
+
+      "url": "file:///android_asset/FATIMEH.mp3"
+
+    },
+	
+	{
+
+      "id": 6,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Mansyur S",
+
+      "duration": "02:57",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "GADIS ATAU JANDA",
+
+      "url": "file:///android_asset/GADIS ATAU JANDA.mp3"
+
+    },
+	
+	{
+
+      "id": 7,
+
+      "album": "EP (iTunes)",
+
+      "artist": "MEGGI Z",
+
+      "duration": "04:24",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "GUBUK BAMBU",
+
+      "url": "https://ia802505.us.archive.org/33/items/dangdut-akustik/GUBUK%20BAMBU%20-%20MEGGY%20Z%20%28%20LIVE%20ACOUSTIC%20COVER%20%29.mp3"
+
+    },
+	
+	{
+
+      "id": 8,
+
+      "album": "EP (iTunes)",
+
+      "artist": "MEGGI Z",
+
+      "duration": "04:28",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "JATUH BANGUN",
+
+      "url": "https://ia802505.us.archive.org/33/items/dangdut-akustik/JATUH%20BANGUN%20-%20MEGGI%20Z%20(%20Pribadi%20Hafiz%20ft%20Hendra%20Cover%20&%20Lirik%20).mp3"
+
+    },
+	
+	{
+
+      "id": 9,
+
+      "album": "EP (iTunes)",
+
+      "artist": "P.M.R",
+
+      "duration": "03:28",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "Judul Judulan",
+
+      "url": "https://ia902505.us.archive.org/33/items/dangdut-akustik/Judul%20Judulan%20-%20P.M.R%20(%20Pribadi%20Hafiz%20ft%20Hendra%20Cover%20&%20Lirik%20).mp3"
+
+    },
+	
+	{
+
+      "id": 10,
+
+      "album": "EP (iTunes)",
+
+      "artist": "RHOMA IRAMA",
+
+      "duration": "04:28",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "KEHILANGAN",
+
+      "url": "https://ia902505.us.archive.org/33/items/dangdut-akustik/KEHILANGAN%20-%20RHOMA%20IRAMA%20(%20LIVE%20ACOUSTIC%20COVER%20).mp3"
+
+    },
+	
+	{
+
+      "id": 11,
+
+      "album": "EP (iTunes)",
+
+      "artist": "FAHMI SHAHAB",
+
+      "duration": "03:27",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "KOPI DANGDUT",
+
+      "url": "https://ia802505.us.archive.org/33/items/dangdut-akustik/KOPI%20DANGDUT%20-%20FAHMI%20SHAHAB%20(%20LIVE%20ACOUSTIC%20COVER%20).mp3"
+
+    },
+	
+	{
+
+      "id": 12,
+
+      "album": "EP (iTunes)",
+
+      "artist": "MEGGY Z",
+
+      "duration": "04:45",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "LEBIH BAIK SAKIT GIGI",
+
+      "url": "https://ia902505.us.archive.org/33/items/dangdut-akustik/LEBIH%20BAIK%20SAKIT%20GIGI%20-%20MEGGY%20Z%20(%20Pribadi%20Hafiz%20ft%20Hendra%20Cover%20&%20Lirik%20).mp3"
+
+    },
+	
+	{
+
+      "id": 13,
+
+      "album": "EP (iTunes)",
+
+      "artist": "MEGGY Z",
+
+      "duration": "05:42",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "MAHAL",
+
+      "url": "https://ia902505.us.archive.org/33/items/dangdut-akustik/MAHAL%20-%20MEGGY%20Z%20(%20Pribadi%20Hafiz%20ft%20Hendra%20Cover%20&%20Lirik%20).mp3"
+
+    },
+	
+	{
+
+      "id": 14,
+
+      "album": "EP (iTunes)",
+
+      "artist": "IKKE NURJANAH",
+
+      "duration": "05:22",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "MEMANDANGMU",
+
+      "url": "https://ia802505.us.archive.org/33/items/dangdut-akustik/MEMANDANGMU%20-%20IKKE%20NURJANAH%20I%20PRIBADI%20HAFIZ%20ft%20KANIA%20PERMATASARI.mp3"
+
+    },
+	
+	{
+
+      "id": 15,
+
+      "album": "EP (iTunes)",
+
+      "artist": "KUDAMAI",
+
+      "duration": "04:50",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "MENDUNG TANPO UDAN",
+
+      "url": "https://ia902505.us.archive.org/33/items/dangdut-akustik/MENDUNG%20TANPO%20UDAN%20-%20KUDAMAI%20(%20Pribadi%20Hafiz%20ft%20Hendra%20Cover%20&%20Lirik%20).mp3"
+
+    },
+	
+	{
+
+      "id": 16,
+
+      "album": "EP (iTunes)",
+
+      "artist": "RHOMA IRAMA",
+
+      "duration": "03:20",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "MIRASANTIKA",
+
+      "url": "https://ia802505.us.archive.org/33/items/dangdut-akustik/MIRASANTIKA%20-%20RHOMA%20IRAMA%20(%20Pribadi%20Hafiz%20ft%20Hendra%20Cover%20&%20Lirik%20).mp3"
+
+    },
+	
+	{
+
+      "id": 17,
+
+      "album": "EP (iTunes)",
+
+      "artist": "A. RAFIQ",
+
+      "duration": "02:59",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "PENGALAMAN PERTAMA",
+
+      "url": "https://ia802505.us.archive.org/33/items/dangdut-akustik/PENGALAMAN%20PERTAMA%20-%20A.%20RAFIQ%20(%20Pribadi%20Hafiz%20ft%20Hendra%20Cover%20&%20Lirik%20).mp3"
+
+    },
+	
+	{
+
+      "id": 18,
+
+      "album": "EP (iTunes)",
+
+      "artist": "RITA SUGIARTO",
+
+      "duration": "03:43",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "RINDU",
+
+      "url": "https://ia802505.us.archive.org/33/items/dangdut-akustik/RINDU%20-%20RITA%20SUGIARTO%20(%20Pribadi%20Hafiz%20ft%20Hendra%20Cover%20&%20Lirik%20).mp3"
+
+    },
+	
+	{
+
+      "id": 19,
+
+      "album": "EP (iTunes)",
+
+      "artist": "JHONNY ISKANDAR",
+
+      "duration": "04:13",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "SECANGKIR KOPI",
+
+      "url": "https://ia902505.us.archive.org/33/items/dangdut-akustik/SECANGKIR%20KOPI%20-%20JHONNY%20ISKANDAR%20(%20Pribadi%20Hafiz%20ft%20Hendra%20Cover%20&%20Lirik%20).mp3"
+
+    },
+	
+	{
+
+      "id": 20,
+
+      "album": "EP (iTunes)",
+
+      "artist": "MEEGY Z",
+
+      "duration": "06:28",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "SENYUM MEMBAWA LUKA",
+
+      "url": "https://ia802505.us.archive.org/33/items/dangdut-akustik/SENYUM%20MEMBAWA%20LUKA%20-%20MEEGY%20Z%20(%20Pribadi%20Hafiz%20ft%20Hendra%20Cover%20&%20Lirik%20).mp3"
+
+    },
+	
+	{
+
+      "id": 21,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ARIJIT SINGH",
+
+      "duration": "04:36",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "TUM HI HO",
+
+      "url": "https://ia902505.us.archive.org/33/items/dangdut-akustik/TUM%20HI%20HO%20-%20ARIJIT%20SINGH%20(%20Pribadi%20Hafiz%20ft%20Hendra%20Cover%20&%20Lirik%20).mp3"
+
+    },
+	
+	{
+
+      "id": 22,
+
+      "album": "EP (iTunes)",
+
+      "artist": "IWAN",
+
+      "duration": "03:53",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "YANG SEDANG SEDANG SAJA",
+
+      "url": "https://ia802505.us.archive.org/33/items/dangdut-akustik/YANG%20SEDANG%20SEDANG%20SAJA%20-%20IWAN%20(%20Pribadi%20Hafiz%20ft%20Hendra%20Cover%20&%20Lirik%20).mp3"
+
+    },
+	
+	{
+
+      "id": 22,
+
+      "album": "EP (iTunes)",
+
+      "artist": "AHMAD ALBAR",
+
+      "duration": "03:47",
+
+      "image": "file:///android_asset/play.png",
+
+      "title": "ZAKIA",
+
+      "url": "https://ia802505.us.archive.org/33/items/dangdut-akustik/ZAKIA%20-%20AHMAD%20ALBAR%20(%20Pribadi%20Hafiz%20ft%20Hendra%20Cover%20&%20Lirik%20).mp3"
+
+    }
+	
+
+  ]
+
+}
