@@ -1,0 +1,230 @@
+{
+
+  "ADS": [
+
+    {
+
+      "select_main_ads": "ADMOB",
+
+      "select_backup_ads": "ADMOB",
+
+      "main_ads_banner": "ca-app-pub-4898910776136267/4992414526",
+
+      "main_ads_intertitial": "ca-app-pub-4898910776136267/1356459832",
+
+      "backup_ads_banner": "ca-app-pub-4898910776136267/4992414526",
+
+      "backup_ads_intertitial": "ca-app-pub-4898910776136267/1356459832",
+	  
+	  "native_ads_admob": "ca-app-pub-4898910776136267/2477969813",
+
+      "initialize_sdk": "",
+
+      "initialize_sdk_backup_ads": "",
+
+      "interstitial_counter": "3",
+
+      "high_paying_keyword_1": "",
+
+      "high_paying_keyword_2": "",
+
+      "high_paying_keyword_3": "",
+
+      "high_paying_keyword_4": "",
+
+      "high_paying_keyword_5": "",
+
+      "status_app": "0",
+
+      "link_redirect": "https://"
+
+    }
+
+  ],
+
+  "DATA": [
+
+    {
+
+      "id": 1,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZIELL FERDIAN",
+
+      "duration": "04:08",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "CINTA SAMPAI MATI",
+
+      "url": "file:///android_asset/CINTA SAMPAI MATI - ZIELL FERDIAN.mp3"
+
+    },
+	
+	 {
+
+      "id": 2,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZIELL FERDIAN",
+
+      "duration": "05:27",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "HANYA DIA YANG ADA DI ANTARA JANTUNG HATI",
+
+      "url": "file:///android_asset/HANYA DIA YANG ADA DI ANTARA JANTUNG HATI - ZIELL FERDIAN.mp3"
+
+    },
+	
+	{
+
+      "id": 3,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZIELL FERDIAN",
+
+      "duration": "03:49",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Haruskah Ku Bertahan",
+
+      "url": "file:///android_asset/Haruskah Ku Bertahan - Ziell Ferdian.mp3"
+
+    },
+	
+	{
+
+      "id": 4,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZIELL FERDIAN",
+
+      "duration": "03:06",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "MANTAN",
+
+      "url": "file:///android_asset/MANTAN - ZIELL FERDIAN.mp3"
+
+    },
+	
+	{
+
+      "id": 5,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZIELL FERDIAN",
+
+      "duration": "03:55",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "TAK INGIN PERGI",
+
+      "url": "file:///android_asset/TAK INGIN PERGI - ZIELL FERDIAN.mp3"
+
+    },
+	
+	{
+
+      "id": 6,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZIELL FERDIAN",
+
+      "duration": "04:39",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Ku Simpan Rindu Di hati",
+
+      "url": "file:///android_asset/Ziell Ferdian - Ku Simpan Rindu Di hati.mp3"
+
+    },
+	
+	{
+
+      "id": 7,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZIELL FERDIAN",
+
+      "duration": "03:52",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "SUDAH TAK CINTA",
+
+      "url": "file:///android_asset/ZIELL FERDIAN - SUDAH TAK CINTA (Official Music Video) New Version.mp3"
+
+    },
+	
+	{
+
+      "id": 8,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ST12",
+
+      "duration": "05:14",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "SAAT TERAKHIR",
+
+      "url": "file:///android_asset/SAAT TERAKHIR - St 12 COVER ZIELL FERDIAN.mp3"
+
+    },
+	
+	{
+
+      "id": 9,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZIELL FERDIAN",
+
+      "duration": "05:53",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Duri Duri",
+
+      "url": "file:///android_asset/Ziell Ferdian ft Tri Suaka - Duri Duri.mp3"
+
+    },
+	
+	{
+
+      "id": 10,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZIELL FERDIAN",
+
+      "duration": "06:47",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Kau Pemilik Hati",
+
+      "url": "file:///android_asset/Ziell Ferdian Ft Tri Suaka - Kau Pemilik Hati.mp3"
+
+    }
+
+
+  ]
+
+}
