@@ -1,0 +1,376 @@
+{
+
+  "ADS": [
+
+    {
+
+      "select_main_ads": "ADMOB",
+
+      "select_backup_ads": "ADMOB",
+
+      "main_ads_banner": "Banner ca-app-pub-4898910776136267/9138617059",
+
+      "main_ads_intertitial": "ca-app-pub-4898910776136267/9017567248",
+
+      "backup_ads_banner": "Banner ca-app-pub-4898910776136267/9138617059",
+
+      "backup_ads_intertitial": "ca-app-pub-4898910776136267/9017567248",
+	  
+	  "native_ads_admob": "ca-app-pub-4898910776136267/3765240563",
+
+      "initialize_sdk": "",
+
+      "initialize_sdk_backup_ads": "",
+
+      "interstitial_counter": "3",
+
+      "high_paying_keyword_1": "",
+
+      "high_paying_keyword_2": "",
+
+      "high_paying_keyword_3": "",
+
+      "high_paying_keyword_4": "",
+
+      "high_paying_keyword_5": "",
+
+      "status_app": "0",
+
+      "link_redirect": "https://"
+
+    }
+
+  ],
+
+  "DATA": [
+
+    {
+
+      "id": 1,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZerosiX Park",
+
+      "duration": "05:01",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Haruskah Aku Melupakanmu",
+
+      "url": "file:///android_asset/ZerosiX - Haruskah Aku Melupakanmu.mp3"
+
+    },
+	
+	{
+
+      "id": 2,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZerosiX Park",
+
+      "duration": "04:16",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Diana",
+
+      "url": "file:///android_asset/ZerosiX park - Diana Remake ( Cover  Koes Plus ).mp3"
+
+    },
+	
+	{
+
+      "id": 3,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZerosiX Park",
+
+      "duration": "04:15",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Diantara Kalian",
+
+      "url": "file:///android_asset/ZerosiX park - Diantara Kalian.mp3"
+
+    },
+	
+	{
+
+      "id": 4,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZerosiX Park",
+
+      "duration": "03:42",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Dimana Jawabnya",
+
+      "url": "file:///android_asset/ZerosiX park - Dimana Jawabnya.mp3"
+
+    },
+	
+	{
+
+      "id": 5,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZerosiX Park",
+
+      "duration": "05:53",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Hijrah",
+
+      "url": "file:///android_asset/ZerosiX park - Hijrah.mp3"
+
+    },
+	
+	{
+
+      "id": 6,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZerosiX Park",
+
+      "duration": "03:50",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Ksatria Baja Hitam RX",
+
+      "url": "file:///android_asset/ZerosiX park - Ksatria Baja Hitam RX _ Guitar Cam.mp3"
+
+    },
+	
+	{
+
+      "id": 7,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZerosiX Park",
+
+      "duration": "05:02",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Semangat Hidupku",
+
+      "url": "file:///android_asset/ZerosiX park - Semangat Hidupku (Original).mp3"
+
+    },
+	
+	{
+
+      "id": 8,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZerosiX Park",
+
+      "duration": "05:03",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Sandiwara Cinta",
+
+      "url": "file:///android_asset/ZerosiX park Feat. Nike Ardilla - Sandiwara Cinta.mp3"
+
+    },
+	
+	{
+
+      "id": 9,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZerosiX Park",
+
+      "duration": "06:36",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Mirasantika",
+
+      "url": "file:///android_asset/Zerosix park mirasantika.mp3"
+
+    },
+	
+	{
+
+      "id": 10,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZerosiX Park",
+
+      "duration": "05:44",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "ANAK SINGKONG",
+
+      "url": "https://ia902501.us.archive.org/8/items/zerosixpark_202205/ANAK%20SINGKONG%20-%20by%20ZerosiX%20park%20(Cover).mp3"
+
+    },
+	
+	{
+
+      "id": 11,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Iwan Fals",
+
+      "duration": "07:23",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "BENTO",
+
+      "url": "https://ia802501.us.archive.org/8/items/zerosixpark_202205/BENTO%20-%20IWAN%20FALS%20(Cover)%20ZerosiX%20park.mp3"
+
+    },
+	
+	{
+
+      "id": 12,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZerosiX Park",
+
+      "duration": "03:28",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Stasiun Balapan",
+
+      "url": "https://ia902501.us.archive.org/8/items/zerosixpark_202205/Didi%20Kempot%20-%20Stasiun%20Balapan%20METAL%20Cover%20by%20Sanca%20Records%20ft.%20Zerosix%20Park.mp3"
+
+    },
+	
+	{
+
+      "id": 13,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Iwan Fals",
+
+      "duration": "06:23",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Bongkar",
+
+      "url": "https://ia902501.us.archive.org/8/items/zerosixpark_202205/Iwan%20Fals%20-%20Bongkar%20ROCK%20Cover%20by%20ZerosiX%20park%20ft.%20Sanca%20Records.mp3"
+
+    },
+	
+	
+	{
+
+      "id": 14,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZerosiX Park",
+
+      "duration": "05:43",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Karma",
+
+      "url": "https://ia902501.us.archive.org/8/items/zerosixpark_202205/KARMA%20(Official%20Lyric%20Video)%20-%20ZerosiX%20park.mp3"
+
+    },
+	
+	{
+
+      "id": 15,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZerosiX Park",
+
+      "duration": "05:20",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Kau Tercipta Bukan Untukku",
+
+      "url": "https://ia802501.us.archive.org/8/items/zerosixpark_202205/Kau%20Tercipta%20Bukan%20Untukku%20-%20Nella%20Kharisma%20_%20Ratih%20Purwasih%20_%20ZerosiX%20park%20(cover).mp3"
+
+    },
+	
+	{
+
+      "id": 16,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Peterpan",
+
+      "duration": "05:04",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Di Atas Normaal",
+
+      "url": "https://ia902501.us.archive.org/8/items/zerosixpark_202205/Peterpan%20-%20Diatas%20Normal%20_%20ROCK%20COVER%20by%20ZerosiX%20park.mp3"
+
+    },
+	
+	{
+
+      "id": 17,
+
+      "album": "EP (iTunes)",
+
+      "artist": "ZerosiX Park",
+
+      "duration": "04:38",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "RINDU SERINDU RINDUNYA",
+
+      "url": "https://ia902501.us.archive.org/8/items/zerosixpark_202205/RINDU%20SERINDU%20RINDUNYA%20-%20ZerosiX%20park%20(Cover).mp3"
+
+    },
+	
+	{
+
+      "id": 18,
+
+      "album": "EP (iTunes)",
+
+      "artist": "Peterpan",
+
+      "duration": "06:12",
+
+      "image": "file:///android_asset/play.jpg",
+
+      "title": "Tak Bisakah",
+
+      "url": "https://ia802501.us.archive.org/8/items/zerosixpark_202205/Tak%20Bisakah%20-%20ZerosiX%20park%20(Cover%20Version%20_%20Peterpan).mp3"
+
+    }
+	
+	
+
+  ]
+
+}
