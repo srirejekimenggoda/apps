@@ -6,15 +6,15 @@
 
       "select_main_ads": "ADMOB",
 
-      "select_backup_ads": "ADMOB",
+      "select_backup_ads": "",
 
       "main_ads_banner": "ca-app-pub-4898910776136267/2712159137",
 
       "main_ads_intertitial": "ca-app-pub-4898910776136267/5776757439",
 
-      "backup_ads_banner": "ca-app-pub-4898910776136267/2712159137",
+      "backup_ads_banner": "",
 
-      "backup_ads_intertitial": "ca-app-pub-4898910776136267/5776757439",
+      "backup_ads_intertitial": "",
 	  
 	  "native_ads_admob": "ca-app-pub-4898910776136267/3150594090",
 
@@ -22,7 +22,7 @@
 
       "initialize_sdk_backup_ads": "",
 
-      "interstitial_counter": "1",
+      "interstitial_counter": "3",
 
       "high_paying_keyword_1": "",
 
